@@ -1,0 +1,5 @@
+```bash
+
+  npx sequelize-cli model:generate --name User --attributes username:string,password:string
+
+```
